@@ -1,2 +1,2 @@
 # MEMBERSHIP-TOKEN
-Token contract: 0x2775F2A3C83bee1541D1d1BC308b3BB432B45151
+https://etherscan.io/token/0x2775f2a3c83bee1541d1d1bc308b3bb432b45151
